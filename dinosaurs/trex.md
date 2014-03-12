@@ -1,4 +1,10 @@
 ---
+layout: dinosaurs
+category: dinosaurs
+name: Tyrannosaurus
+time_period: Late Cretaceous
+dite: Carnivorous
+image: land-dinos/hadrosaur.jpg
 ---
 
 *Tyrannosaurus* is the most **fierce** dinosaur that ever existed.
